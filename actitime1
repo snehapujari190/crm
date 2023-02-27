@@ -1,0 +1,6 @@
+driver.findElementBy.id
+driver.findElementBy.class
+driver.findElementBy.name
+driver.findElementBy.tagname
+driver.findElementBy.xpath
+driver.findElementBy.linktext
